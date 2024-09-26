@@ -1,4 +1,5 @@
-# Problem Statement
+# Recipe-Recommender-Assignment-EDA
+## Problem Statement
 In this project, we will utilize PySpark, a distributed computing framework for processing large-scale data, to build a recommendation system. The PySpark implementation will be deployed on AWS (Amazon Web Services) using EMR (Elastic MapReduce) instances, which provide a scalable and cost-effective way to process large datasets. We will also use s3, an object storage service provided by AWS, to store and retrieve data. By leveraging these technologies, we can efficiently handle the data and compute resources required to build an effective recommendation system.
 
 As an ML engineer at food.com, your responsibility is to develop a recommendation system to suggest recipes to users based on their preferences and the recipes they are currently viewing. The main objective of this recommendation engine is to increase user engagement on the website. By showing users recipes that are relevant to their interests, they are more likely to spend more time exploring the site, which in turn could lead to increased business opportunities, such as collaborations and promotions.
